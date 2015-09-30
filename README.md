@@ -26,7 +26,7 @@ Direct HTML include:
 
 ```javascript
 Vue.use(window['vue-tagdog']);
-``
+``` 
 
 Usage of the `v-tagdog` directive:
 
