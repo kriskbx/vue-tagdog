@@ -53,3 +53,7 @@ var vm = new Vue({
 });
 ```
 
+## license
+
+MIT.
+

@@ -1,5 +1,5 @@
 (function(root, factory){
-    var tagdog = {
+    var vueTagdog = {
 
         twoWay: true,
 
@@ -118,7 +118,7 @@
         return function (Vue, options) {
             options = options || {};
             var directiveName = options.directive || 'tagdog';
-            Vue.directive(directiveName, tagdog);
+            Vue.directive(directiveName, vueTagdog);
         };
     }
 })(this);
