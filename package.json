@@ -1,0 +1,28 @@
+{
+  "name": "vue-tagdog",
+  "version": "0.0.1",
+  "description": "A Vue.js directive for tagdog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tags",
+    "tagging",
+    "forms",
+    "fields",
+    "components",
+    "plugin",
+    "vue",
+    "directiv"
+  ],
+  "author": "kriskbx <m@kris.cool>",
+  "license": "MIT",
+  "devDependencies": {
+    "add-banner": "^0.1.0",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-header": "^1.7.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.1"
+  }
+}
