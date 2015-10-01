@@ -53,6 +53,10 @@ var vm = new Vue({
 });
 ```
 
+## demo
+
+<iframe width="100%" height="300" src="//jsfiddle.net/kriskbx/7fomkrL7/6/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
 ## license
 
 MIT.
