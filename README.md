@@ -1,4 +1,4 @@
-# vue-tagdog [![Tips](https://img.shields.io/gratipay/kriskbx.svg)](https://www.gittip.com/kriskbx/) [![GitHub license](https://img.shields.io/github/license/kriskbx/vue-tagdog.svg)](https://github.com/kriskbx/vue-tagdog/blob/master/LICENSE) [![Npm](https://img.shields.io/npm/dt/vue-tagdog.svg)](https://www.npmjs.com/package/vue-tagdog)
+# vue-tagdog [![Tips](https://img.shields.io/gratipay/kriskbx.svg)](https://www.gittip.com/kriskbx/) [![Npm](https://img.shields.io/npm/dt/vue-tagdog.svg)](https://www.npmjs.com/package/vue-tagdog)
 
 > A Vue.js directive for [tagdog.js](https://github.com/odiumediae/tagdog.js)
 
